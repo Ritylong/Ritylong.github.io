@@ -1,0 +1,18 @@
+.header{
+    background-image: url('Image/annie.jpg');
+    position: relative;
+}
+.header h1{
+    position: absolute;
+    left: 36%;
+    top: 20% ;
+    font-family:'Riot Sans Latin', Arial, sans-serif; 
+    font-size: 50px;
+    color: white;
+}
+article{
+    background-color: white;
+    min-height: 200px;
+    text-align: center; 
+    padding: 30px;
+}
